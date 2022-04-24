@@ -13,36 +13,36 @@ global.APIKeys = {
 	'https://zenzapi.xyz': '805a6c3fa9', //Apikey Premium
 }
 global.Prefix = 'Multi'
-global.meki = '6285878313791'
-global.ownerNumber = '6285878313791'
-global.botname = 'Ｃｈｉｔａｎｄａ - ＭＤ' 
-global.ownername = '𝙸 𝙰𝚖 𝙺𝚒𝚉𝚊𝚔𝚒𝚇𝙳'
-global.owner = ['6285878313791'] 
-global.pemilik = ['6285878313791'] 
-global.premium = ['6285878313791'] 
+global.meki = '6285731749158'
+global.ownerNumber = '6285731749158'
+global.botname = 'Z A K Z Z - ＭＤ' 
+global.ownername = 'Zakky Peler'
+global.owner = ['6285731749158'] 
+global.pemilik = ['6285731749158'] 
+global.premium = ['6285731749158'] 
 global.pengguna = '𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳'
-global.botnma = 'Ｃｈｉｔａｎｄａ - ＭＤ' 
-global.ownernma = '𝙸 𝙰𝚖 𝙺𝚒𝚉𝚊𝚔𝚒𝚇𝙳'
-global.packname = '✨ 𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳 ✨' 
-global.author = 'Ｃｈｉｔａｎｄａ - ＭＤ' 
+global.botnma = 'Z A K Z Z - ＭＤ' 
+global.ownernma = 'Zakky Peler'
+global.packname = '✨ Zakzz ✨' 
+global.author = 'Z A K Z Z - ＭＤ' 
 global.sessionName = 'kizakixd'
 global.prefa = ['#','!','/','']
 global.sp = '» ' 
 global.mess = {
     success: 'Berhasil.',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    admin: 'Fitur Khusus Admin Tod!',
+    botAdmin: 'Jadiin Gw Admin Dulu Tod!',
+    owner: 'Fitur Khusus Owner Tod',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
-    done: 'Done',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
-    wrongFormat: 'Perintah Salah!!\nSertakan Link setelah Command..',
-    example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'
+    wait: 'Sabar Tod...',
+    done: 'Nichh Tod',
+    endLimit: 'Limit Harian Mu Telah Habis Tod, Limit Akan Direset Setiap Jam 12',
+    wrongFormat: 'Perintah Salah Bodoh!!\nSertakan Link setelah Command..',
+    example1: 'Welcome Beban @user Di Group @subject Jangan Lupa Baca Rules Ya Tod @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'
 ,
-    example2: 'Good Bye @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'    
+    example2: 'Good Bye Beban @user Di Group @subject Jangan Balik Lagi Lu @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'    
 }
 global.limitawal = {
     premium: "Infinity",

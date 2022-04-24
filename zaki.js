@@ -604,7 +604,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
             }
             break
 	    case 'donasi': case 'donate': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                Zaki.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/5Gpzr1Q/20220422-170038.jpg' }, caption: `*── 「 DONATE 」 ──*\n\n_Kalian Bisa Dukung Bot Lewat Donate Ke :_\n _》Dana : 085878313791_\n _》Gopay : 085878313791_\n _》Pulsa : 085878313791 ( Indosat )_\n\n_Donate Kalian Sangat Berarti._\n\n_Contact person Owner:_\n_wa.me/6285878313791_` }, { quoted: m })
+                Zaki.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/5Gpzr1Q/20220422-170038.jpg' }, caption: `*── 「 DONATE 」 ──*\n\n_Kalian Bisa Dukung Bot Lewat Donate Ke :_\n _》Dana : 085731749158\n _》Gopay : Gpunya_\n _》Pulsa : 085731749158 ( Indosat )_\n\n_Donate Kalian Sangat Berarti._\n\n_Contact person Owner:_\n_wa.me/6285731749158_` }, { quoted: m })
             }
             break
             case 'sc': case 'script': {
